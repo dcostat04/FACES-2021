@@ -1,3 +1,11 @@
+# The Team:
+# Students Of FCRIT, VASHI Computer Department
+
+# Gabriel Rajendran <a href="https://github.com/rgab1508" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+# Aditya Unnikrishnan <a href="https://github.com/CharieBlastX7" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+# Abhishek Chaudhary <a href="https://github.com/theabbie" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+# Trevor Aaron Robert Dcosta <a href="https://github.com/dcostat04" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+
 # FACES 2021
 College Event Registration Website.
 (used for Faces-2021)
